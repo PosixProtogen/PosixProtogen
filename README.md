@@ -20,4 +20,4 @@ Meu favorito é a [J2DGameEngineAndroid](https://github.com/PosixProtogen/J2DGam
 | [SleepSort](https://github.com/PosixProtogen/SleepSort) | sleep sort. é meme. não usa em produção |
 
 ## Atualmente
-Formado em Bacharelado em Sistemas de Informação, atuando como desenvolvedor full-stack Java e Angular. Em breve sobe um projeto aqui para provar minhas competências, caso algum tech recruiter esteja lendo isso.
+Bacharel em Sistemas de Informação. Atuo como desenvolvedor full-stack Java e Angular. Em breve vou subir um projeto aqui para provar minhas competências, caso algum tech recruiter esteja lendo isso rsrs.
