@@ -1,3 +1,4 @@
+## Bem-vindo
 Esse espaço é uma mistura de perfil profissional com espaço pessoal.
 Tem poucos projetos, mas os que estão aqui têm história.
 
@@ -12,7 +13,7 @@ Meu favorito é a [J2DGameEngineAndroid](https://github.com/PosixProtogen/J2DGam
 ## Repositórios
 | Projeto | Descrição |
 | --- | --- |
-| [J2DGameEngineAndroid](https://github.com/PosixProtogen/J2DGameEngineAndroid) | engine 2D com OpenGL ES 1.0 para Android. a favorita |
+| [J2DGameEngineAndroid](https://github.com/PosixProtogen/J2DGameEngineAndroid) | engine 2D com OpenGL ES 1.0 para Android |
 | [SteamServerManager](https://github.com/PosixProtogen/SteamServerManager) | gerenciador de servidores de jogos fazendo um front-end do steamcmd |
 | [TerminusEngine](https://github.com/PosixProtogen/TerminusEngine) | engine de terminal para entender game loop e orientação a objetos para monitoria da disciplina de programação de jogos digitais |
 | [SpaceInvadersV2](https://github.com/PosixProtogen/SpaceInvadersV2) | space invaders (na unreal engine 4), versão 2 porque a versão 1 se auto destruiu|
